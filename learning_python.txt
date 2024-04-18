@@ -1,0 +1,12 @@
+So far I heve learned about variables and strings.
+I have also learned about for loop and while loops
+I have learned about lists and dictionaries, as well
+as how to work with user inputs
+I am struggling to learn functions and classes,
+but I believe that with persistence and more practice
+that I will be able to get them down.
+For the lesson I am learning about file and will later 
+learn about exceptions and how to text my code.
+My hope is that I can put together a good portfolio to 
+show to recruiters to get my first role working with Python.
+
